@@ -32,8 +32,8 @@ This project is an interactive cryptocurrency dashboard built using Python, Dash
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/gombos14/crypto-market-visualizer.git
+cd crypto-market-visualizer
 ```
 
 ### 2. Install Dependencies
